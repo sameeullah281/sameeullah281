@@ -1,17 +1,138 @@
-<h1 align="center">Hi 👋, I'm Sameeullah</h1>
-<h3 align="center">A passionate engineer from India</h3>
+<h1 align="center">Hi 👋, I'm Mirza Sameeullah Baig</h1>
+<h3 align="center">Robotics Engineer | RF & Microwave Engineer | Defence Technology Enthusiast from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sameeullah281&label=Profile%20views&color=0e75b6&style=flat" alt="sameeullah281" /> </p>
-
-- 🔭 I’m currently working on **NAV2**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sameeullah281" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameeullah281" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/25229194" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="25229194" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sameeullah281&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="https://linkedin.com/in/sameeullah281" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Mirza%20Sameeullah%20Baig-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:281sameeullah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-281sameeullah%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://stackoverflow.com/users/25229194" target="_blank">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-25229194-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+  </a>
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sameeullah281&show_icons=true&locale=en&layout=compact" alt="sameeullah281" /></p>
+---
+
+### 🧭 About Me
+
+- 🔭 Currently focused on **NAV2** and autonomous robotics systems.
+- 🛡️ Worked as an **Antenna Design and RF Engineer Apprentice at DRDO, DLRL**.
+- 📡 Gained hands-on experience in **RF systems, microwave components, horn antenna prototyping, assembly, and performance testing**.
+- 🤖 I build projects in **robotics, embedded systems, UAVs, computer vision, and IoT**.
+- 🧠 I enjoy solving real-world engineering problems through research, prototyping, and practical design.
+- 🌍 Fluent in **English, Telugu, and Urdu**.
+
+---
+
+### ⚙️ Technical Skills
+
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Embedded%20C-8A2BE2?style=for-the-badge" alt="Embedded C" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino IDE" />
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />
+  <img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="Machine Learning" />
+  <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=pytorch&logoColor=white" alt="Deep Learning" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" alt="STM32" />
+  <img src="https://img.shields.io/badge/ESP8266%2FESP32-000000?style=for-the-badge" alt="ESP8266/ESP32" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi%204B-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white" alt="Raspberry Pi 4B" />
+  <img src="https://img.shields.io/badge/Jetson%20Nano-76B900?style=for-the-badge" alt="Jetson Nano" />
+  <img src="https://img.shields.io/badge/SolidWorks-C41E3A?style=for-the-badge" alt="SolidWorks" />
+  <img src="https://img.shields.io/badge/MATLAB-E76F00?style=for-the-badge" alt="MATLAB" />
+  <img src="https://img.shields.io/badge/LTspice-1E3A8A?style=for-the-badge" alt="LTspice" />
+  <img src="https://img.shields.io/badge/Cadence-7E22CE?style=for-the-badge" alt="Cadence" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</p>
+
+---
+
+### 🛰️ Professional Experience
+
+#### 🛡️ Antenna Design and RF Engineer Apprentice  
+**Defence Research and Development Organisation (DRDO), DLRL** | Dec 2024 – 2025
+
+- Designed, developed, and prototyped several **horn antennas**.
+- Assisted in **assembly, testing, and performance evaluation** of antenna systems.
+- Gained hands-on exposure to **microwave components and RF equipment**.
+- Strengthened practical understanding of **antenna engineering, microwave engineering, and RF systems**.
+- Contributed to defence technology development through research-focused engineering work.
+
+#### 🚁 Drone Engineer Intern  
+**Drone Centre of Excellence, MJCET**
+
+- Led UAV design and prototyping to improve **flight performance, stability, and payload efficiency**.
+- Developed custom PCBs for **sensing and communication**.
+- Integrated firmware and software for **control and autonomous functions**.
+- Tested and calibrated **GPS and communication systems** for reliable real-world operation.
+
+---
+
+### 🚀 Projects
+
+#### 📡 Surveillance Drone
+- Developed a seaport security application using **deep learning** and computer vision.
+- Built for **non-intrusive** monitoring to reduce operational interruptions.
+- Maintained a repository of **authorized ships** for accurate identification.
+- Integrated **Raspberry Pi 4B**, hexacopter drone, and ML model.
+
+#### ❤️ ECG Analyser
+- Built an AI-integrated ECG model for early detection of heart diseases.
+- Used **Arduino UNO, Python, MIT-BIH dataset, and AD8232 ECG Module**.
+- Captured and analysed **PQRST waveform** patterns.
+- Applied machine learning to detect irregular heartbeats and anomalies.
+
+#### 🤖 Mars Rover
+- Designed a semi-autonomous rover for remote sensing and monitoring.
+- Used **Arduino Mega, DC motors, FPV camera, and video transmission system**.
+- Built for surveillance and data gathering in hazardous environments.
+
+#### 🏠 Smart Home Automation System
+- Developed an IoT-based automation system using **ESP8266**.
+- Enabled remote monitoring and control via Wi-Fi.
+- Integrated sensors and actuators for **lighting, temperature, and security**.
+- Wrote optimized firmware in **C++**.
+
+#### 🦾 Voice Controlled Robotics Arm
+- Designed and 3D-printed a **4-axis robotic arm** using Arduino.
+- Enabled pick-and-place operations with high precision.
+- Built a digital twin based control interface.
+- Optimized movement control for smooth operation.
+
+---
+
+### 🏆 Awards and Achievements
+
+- 🥇 **1st Runner-up** — APJ Abdul Kalam Innovation Award 2024.
+- 🥈 **2nd Prize** — College Annual Hackathon, Generic Hardware Category, 2023.
+- 🥈 **2nd Prize** — Stanfest Technical Event Competition, 2023.
+- 🏅 **Runner-up** — Inter-Department Literary Week Competition, 2022.
+- 🏆 **Best Working Model Award** — Robotics Project Expo, 2022.
+- 📡 **2nd Prize** — IEEE-MTT 2-day Event on Wireless Communication, 2022.
+
+---
+
+### 🤝 Leadership and Roles
+
+- 👑 Treasurer, IEEE MJCET Student Branch, 2023–24.
+- 🎯 Chairperson, IEEE Robotics and Automation MJCET Student Branch, 2023–24.
+- 🧩 Junior Executive Committee Head, IEEE Robotics and Automation Society, 2021–23.
+- 🔧 Core Team Member, Robotics Club MJCET, 2022–23.
+- 🚀 Startup Operator, SU Knowledge Hub Foundation Startup Incubator, 2022–23.
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sameeullah281&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
