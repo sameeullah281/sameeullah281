@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mirza Sameeullah Baig</h1>
-<h3 align="center">Robotics Engineer | RF & Microwave Engineer | Defence Technology Enthusiast from India</h3>
+<h3 align="center">Robotics Engineer | RF & Microwave Engineer | Defence Technology Enthusiast</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sameeullah281&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
