@@ -1,6 +1,6 @@
 <br>
 <p align="center">
-  <img src="https://github.com/sameeullah281/sameeullah281/blob/main/1777725728424.gif" alt="GIF" width="400" />
+  <img src="https://github.com/sameeullah281/sameeullah281/blob/main/1777725728424.gif" alt="GIF" width="700" />
 </p>
 <br>
 <h1 align="center">Hi 👋, I'm  Samee_ullah </h1>
