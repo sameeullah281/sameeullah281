@@ -54,6 +54,12 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
+<br>
+<p align="center">
+  <img src="1777725728424.jpg" alt="GIF" width="500" />
+</p>
+<br>
+
 ---
 
 ### 🛰️ Professional Experience
