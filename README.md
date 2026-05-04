@@ -56,7 +56,7 @@
 
 <br>
 <p align="center">
-  <img src="1777725728424.jpg" alt="GIF" width="500" />
+  <img src="https://github.com/sameeullah281/sameeullah281/blob/main/1777725728424.gif" alt="GIF" width="500" />
 </p>
 <br>
 
