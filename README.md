@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm  Samee_ullah </h1>
 <h3 align="center">Robotics Engineer | RF & Microwave Engineer | Defence Technology Enthusiast</h3>
 
+<br>
+<p align="center">
+  <img src="https://github.com/sameeullah281/sameeullah281/blob/main/1777725728424.gif" alt="GIF" width="1000" />
+</p>
+<br>
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=sameeullah281&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
@@ -53,12 +59,6 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
-
-<br>
-<p align="center">
-  <img src="https://github.com/sameeullah281/sameeullah281/blob/main/1777725728424.gif" alt="GIF" width="1000" />
-</p>
-<br>
 
 ---
 
