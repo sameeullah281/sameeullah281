@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-  <img src="https://github.com/sameeullah281/sameeullah281/blob/main/1777725728424.gif" alt="GIF" width="1000" />
+  <img src="https://github.com/sameeullah281/sameeullah281/blob/main/1777725728424.gif" alt="GIF" width="400" />
 </p>
 <br>
 
